@@ -36,19 +36,19 @@
 
 * How to Use
 
- 1. Start the Stopwatch: Click the START button to begin.
+  1. Start the Stopwatch: Click the START button to begin.
 
 
- 2. Pause the Stopwatch: Click the PAUSE button to stop temporarily.
+  2. Pause the Stopwatch: Click the PAUSE button to stop temporarily.
 
 
- 3. Record a Lap: Click the LAP button while running to save the time.
+  3. Record a Lap: Click the LAP button while running to save the time.
 
 
- 4. Reset the Stopwatch: Click the RESET button to reset the timer.
+  4. Reset the Stopwatch: Click the RESET button to reset the timer.
 
 
- 5. Clear Laps: Click the CLEAR LAPS button to remove lap records.
+  5. Clear Laps: Click the CLEAR LAPS button to remove lap records.
 
 
 
