@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #42A5F5;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: #003366;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.stopwatch {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 20px;
+    background: black;
+    color: cyan;
+    border-radius: 10px;
+}
+
+.buttons button {
+    font-size: 16px;
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#startPauseBtn {
+    background: green;
+    color: white;
+}
+
+#resetBtn {
+    background: red;
+    color: white;
+}
+
+#lapBtn {
+    background: orange;
+    color: white;
+}
+
+#clearLapsBtn {
+    background: purple;
+    color: white;
+}
+
+#lapTimes {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+    text-align: left;
+}
+
+#lapTimes li {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 16px;
+}
