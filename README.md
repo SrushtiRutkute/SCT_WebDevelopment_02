@@ -17,7 +17,7 @@
 
   HTML: Structure of the stopwatch.
 
-  CSS: Styling, including a transparent blue background and button designs.
+  CSS: Styling, including a blue background and button designs.
 
   JavaScript: Stopwatch logic, including time tracking and event handling.
 
