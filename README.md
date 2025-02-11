@@ -53,6 +53,8 @@
 
 
 * Preview
-https://github.com/SrushtiRutkute/SCT_WebDevelopment_02/blob/8845af55049f36a6f826e1a1abceee2557897326/Stop%20watch.png
+    ![image](https://github.com/user-attachments/assets/03309135-7b86-4027-8426-f9062732d56f)
+
+
   
 
